@@ -9,6 +9,8 @@ The result is a space-clear sound **without any loss** of audio signal informati
 any artifacts only depending on the quality of the input signal. In contrast to many over-complex
 audio plugins, the number of parameters have been reduced to the minimum for the **best user experience**.
 
+April 1, 2021
+
 ## Installation
 
 Build your own binaries in the following three steps.
